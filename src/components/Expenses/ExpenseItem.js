@@ -2,11 +2,12 @@ import './ExpenseItem.css';
 import ExpenseDate from './ExpenseDate';
 import Cards from '../UI/Cards';
 function ExpenseItem  (props) 
-{        let title="updated"
+{        let title=props.title;
 
     const clickHnadler=()=>
     
     {
+        title='updated';
         console.log(title);
     }
     return (
