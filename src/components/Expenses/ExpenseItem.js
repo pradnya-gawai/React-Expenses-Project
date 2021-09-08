@@ -10,6 +10,8 @@ function ExpenseItem  (props)
             <h1>{props.title}</h1>
             <div className="expense-item__price">${props.amount}</div>
             </div>
+            <button onClick={()=>console.log("myclick")}
+            >Click Me</button>
         </Cards>);
 }
 
