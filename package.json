@@ -1,5 +1,6 @@
 {
   "name": "demo",
+  "homepage": "http://pradnya-gawai.github.io/React-Expenses-Project",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,18 +10,15 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
-    "web-vitals": "^1.1.2",
-    "homepage": "http://pradnya-gawai.github.io/demo"
-
+    "web-vitals": "^1.1.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [

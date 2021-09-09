@@ -8,7 +8,7 @@ function ExpenseItem  (props)
     const clickHnadler=()=>
     
     {
-        setTitle('udated');
+        setTitle('updated');
         console.log(title);
     }
     return (
