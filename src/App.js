@@ -1,6 +1,7 @@
 import React,{useState} from 'react';
 import  Expenses from './components/Expenses/Expenses';
 import NewExpense from './components/NewExpense/NewExpense';
+import MySass from './components/Sass/MySass';
 
 const DUMMY_EXPENSES = [
   {
@@ -36,6 +37,7 @@ const DUMMY_EXPENSES = [
   };
   return(
 <div>
+  <MySass/>
    <NewExpense onAddExpense={addExpenseHandler}/> 
    <Expenses items={expenses}/>
    </div>
