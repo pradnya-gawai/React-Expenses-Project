@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/React-Expenses-Project/static/css/main.222eb5b2.chunk.css",
-    "main.js": "/React-Expenses-Project/static/js/main.97add3e2.chunk.js",
-    "main.js.map": "/React-Expenses-Project/static/js/main.97add3e2.chunk.js.map",
+    "main.css": "/React-Expenses-Project/static/css/main.70c4b9f7.chunk.css",
+    "main.js": "/React-Expenses-Project/static/js/main.a261b4bd.chunk.js",
+    "main.js.map": "/React-Expenses-Project/static/js/main.a261b4bd.chunk.js.map",
     "runtime-main.js": "/React-Expenses-Project/static/js/runtime-main.732f52bf.js",
     "runtime-main.js.map": "/React-Expenses-Project/static/js/runtime-main.732f52bf.js.map",
     "static/js/2.9dc9ee05.chunk.js": "/React-Expenses-Project/static/js/2.9dc9ee05.chunk.js",
     "static/js/2.9dc9ee05.chunk.js.map": "/React-Expenses-Project/static/js/2.9dc9ee05.chunk.js.map",
     "index.html": "/React-Expenses-Project/index.html",
-    "static/css/main.222eb5b2.chunk.css.map": "/React-Expenses-Project/static/css/main.222eb5b2.chunk.css.map",
+    "static/css/main.70c4b9f7.chunk.css.map": "/React-Expenses-Project/static/css/main.70c4b9f7.chunk.css.map",
     "static/js/2.9dc9ee05.chunk.js.LICENSE.txt": "/React-Expenses-Project/static/js/2.9dc9ee05.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.732f52bf.js",
     "static/js/2.9dc9ee05.chunk.js",
-    "static/css/main.222eb5b2.chunk.css",
-    "static/js/main.97add3e2.chunk.js"
+    "static/css/main.70c4b9f7.chunk.css",
+    "static/js/main.a261b4bd.chunk.js"
   ]
 }
